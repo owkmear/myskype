@@ -1,0 +1,9 @@
+# Folder logs
+logs/
+
+# Trash
+hello.js
+ExampleFromWiki.js
+
+# Wiki logs
+wiki/*.txt
