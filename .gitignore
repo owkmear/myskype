@@ -5,5 +5,5 @@ logs/
 hello.js
 ExampleFromWiki.js
 
-# Wiki logs
-wiki/*.txt
+# Wiki
+wiki/
